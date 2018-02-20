@@ -1,4 +1,4 @@
-<h1> How have the dollar rates for cryptocurrencies changed from 2013 to 2018?
+<h3> How have the dollar rates for cryptocurrencies changed from 2013 to 2018?</h3>
 
 You can view the vizualization at - <a href="https://vaisakhimishra.github.io/D3-Cryptocoins-Timeseries/">https://vaisakhimishra.github.io/D3-Cryptocoins-Timeseries/<a>
 
